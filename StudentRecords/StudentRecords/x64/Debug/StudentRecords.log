@@ -1,0 +1,7 @@
+﻿  functions.cpp
+  StudentRecords.cpp
+C:\Users\Aidan\source\repos\StudentRecords\StudentRecords\StudentRecords.cpp(26,38): error C2131: expression did not evaluate to a constant
+C:\Users\Aidan\source\repos\StudentRecords\StudentRecords\StudentRecords.cpp(26,38): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Aidan\source\repos\StudentRecords\StudentRecords\StudentRecords.cpp(26,38): message : see usage of 'SchoolObject'
+C:\Users\Aidan\source\repos\StudentRecords\StudentRecords\StudentRecords.cpp(39,25): error C3863: array type 'Student [& SchoolObject.8<L_ALIGN>40]' is not assignable
+  Generating Code...
